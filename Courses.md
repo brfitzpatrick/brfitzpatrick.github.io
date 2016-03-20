@@ -13,4 +13,4 @@ The materials for my 2.5 Day Short Course introducing the [R Language and Enviro
 Click the image below to view an animation produced in one of the Linear Modelling Exercises:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=mIDuPWqu0_4
-" target="_blank"><img src="http://i.imgur.com/ekgfeBK.png?1" alt="Linear Modelling Image" width="800" height="430" border="2" /></a> alt="Linear Modelling Exercise" width="480" height="360" border="2" /></a>
+" target="_blank"><img src="http://i.imgur.com/ekgfeBK.png?1" alt="Linear Modelling Image" width="800" height="430" border="2" /></a>
