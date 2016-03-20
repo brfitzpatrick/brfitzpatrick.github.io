@@ -14,4 +14,4 @@ Click the image below to view an animation produced in one of the Linear Modelli
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=mIDuPWqu0_4
 " target="_blank"><img src="http://img.youtube.com/vi/mIDuPWqu0_4/0.jpg" 
-alt="Linear Modelling Exercise" width="240" height="180" border="10" /></a>
+alt="Linear Modelling Exercise" width="480" height="360" border="2" /></a>
