@@ -4,6 +4,7 @@ title: Publications
 ---
 My One and Only Publication to Date
 ===================================
+
 This list is soon to be expanded to justify the plural in the page title.
 -------------------------------------------------------------------------
 
