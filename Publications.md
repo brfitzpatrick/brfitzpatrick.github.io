@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Publications
 ---
 My One and Only Publication to Date
