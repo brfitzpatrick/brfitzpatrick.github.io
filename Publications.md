@@ -10,3 +10,5 @@ Publications
 Pre-Prints
 ===================================
 [**Fitzpatrick, B. R.**, Lamb, D. W., & Mengersen, K. (2016). Assessing Site Effects and Geographic Transferability when Interpolating Point Referenced Spatial Data: A Digital Soil Mapping Case Study.](http://arxiv.org/abs/1608.00086)
+
+[**Fitzpatrick, B. R.**, Lamb, D. W., & Mengersen, K. (2016). Ultrahigh Dimensional Variable Selection for Mapping Soil Carbon.](https://arxiv.org/abs/1608.04253)
