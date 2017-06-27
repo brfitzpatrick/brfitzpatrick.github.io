@@ -13,7 +13,7 @@ The R package is available from [GitHub](https://github.com/brfitzpatrick/forest
 A preprint of the manuscript introducing `forestviews` may be obtained from arXiv.
 
 Below is an exmaple of an interactive Sankey diagram produced with `forestviews`.
-This Sankey diagram visualises all paths through the first four nodes of a random forest fitted Anderson's Iris data.
+This Sankey diagram visualises all paths through the first four nodes of a 100 tree random forest fitted Anderson's Iris data.
 Try hovering the mouse over a link to view a text box with information on the edges represented by that link.
 Hovering the mouse over a block will display of a text box with information on the nodes represented by that block.
 You can also click and drag blocks up and down to alter the vertical layout of the diagram.
