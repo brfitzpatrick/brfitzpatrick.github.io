@@ -31,7 +31,7 @@ An [R](http://www.r-project.org/) package for visualising the paths through a ra
 The `forestviews` R package is available from [GitHub](https://github.com/brfitzpatrick/forestviews). A pre-print of our manuscript introducing the visualisation techniques implemented in `forestviews` may be obtained from [arXiv](https://arxiv.org/abs/1706.08702).
 
 The diagram above is an interactive Sankey diagram produced with `forestviews`.
-This Sankey diagram represents all paths through the first four nodes of the 100 decision trees that constitute a random forest we have fitted Anderson's Iris data.
+This Sankey diagram represents all paths through the first four nodes of the 100 decision trees that constitute a random forest we have fitted to Anderson's Iris data.
 The paths through these trees are represented by the flow from left to right of the curving links between the rectangular blocks.
 
 The rectangular blocks represent groups of nodes in the decision trees of the random forest.
